@@ -1,0 +1,2024 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Describe who you are?",
+      "website": "https://www.indiabix.com/hr-interview/tell-me-about-yourself/",
+      "company": "General",
+      "level": "Easy 1",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 2,
+      "text": "What are your strengths and weaknesses?",
+      "website": "https://www.indiabix.com/hr-interview/what-are-your-strengths-and-weaknesses/",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 3,
+      "text": "Tell me a bit about yourself.",
+      "website": "",
+      "company": "General",
+      "level": "Easy 1",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 4,
+      "text": "You haven't completed your postgraduate studies yet. Do you have plans to pursue a PG degree in the near future?",
+      "website": "",
+      "company": "General",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 5,
+      "text": "You've changed jobs frequently. Can you explain your reasons for these transitions?",
+      "website": "https://www.indiabix.com/hr-interview/why-did-you-resign-from-your-previous-job/",
+      "company": "General",
+      "level": "Hard",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 6,
+      "text": "What is your greatest fear?",
+      "website": "",
+      "company": "General",
+      "level": "Hard",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 7,
+      "text": "Do you have any significant medical conditions that might impact your work?",
+      "website": "",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 8,
+      "text": "What would your friends or colleagues say about you?",
+      "website": "",
+      "company": "General",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 9,
+      "text": "What steps have you taken in the past year to enhance your knowledge and skills?",
+      "website": "",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 10,
+      "text": "Explain the difference between a group and a team. Do you consider yourself a team player?",
+      "website": "",
+      "company": "General",
+      "level": "Hard",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 11,
+      "text": "Describe your ideal work environment or company culture.",
+      "website": "https://www.indiabix.com/hr-interview/describe-your-ideal-company-location-and-job/",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 12,
+      "text": "Have you ever had to terminate someone's employment? How did you manage that situation?",
+      "website": "",
+      "company": "General",
+      "level": "Hard",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 13,
+      "text": "What is your most challenging accomplishment to date?",
+      "website": "",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 14,
+      "text": "Can you differentiate between hard work and smart work?",
+      "website": "",
+      "company": "General",
+      "level": "Hard",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 15,
+      "text": "How comfortable are you working weekends or night shifts?",
+      "website": "https://www.indiabix.com/hr-interview/how-do-you-feel-about-working-nights-and-weekends/",
+      "company": "General",
+      "level": "Easy 1",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 16,
+      "text": "Where do you envision yourself in three years? (or five years)",
+      "website": "https://www.indiabix.com/hr-interview/where-do-you-see-yourself-five-years-from-now/",
+      "company": "General",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 17,
+      "text": "Describe a situation where you had to address an upset manager, customer, colleague, professor, or friend.",
+      "website": "",
+      "company": "General",
+      "level": "Hard",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 18,
+      "text": "How quickly do you adapt to new technologies?",
+      "website": "",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 19,
+      "text": "What software programs are you familiar with?",
+      "website": "",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 20,
+      "text": "On a scale of 1 to 10, how would you rate your leadership skills?",
+      "website": "",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 21,
+      "text": "What are some things that trigger anger in you?",
+      "website": "",
+      "company": "General",
+      "level": "Hard",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 22,
+      "text": "Are you open to taking calculated risks or experimenting with new approaches?",
+      "website": "",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 23,
+      "text": "What are your short-term and long-term career goals?",
+      "website": "",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 24,
+      "text": "What are your hobbies or passions outside of work?",
+      "website": "",
+      "company": "General",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 25,
+      "text": "What are your most significant accomplishments so far?",
+      "website": "",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 26,
+      "text": "What are you most proud of in your career?",
+      "website": "",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 27,
+      "text": "Can you share an experience where you faced a setback? What did you learn from it?",
+      "website": "",
+      "company": "General",
+      "level": "Hard",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 28,
+      "text": "Do you have any regrets?",
+      "website": "",
+      "company": "General",
+      "level": "Hard",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 29,
+      "text": "How do you adapt to changes in your work environment?",
+      "website": "",
+      "company": "General",
+      "level": "Hard",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 30,
+      "text": "Would you be considered a demanding supervisor?",
+      "website": "",
+      "company": "General",
+      "level": "Hard",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 31,
+      "text": "Are you an organized individual?",
+      "website": "",
+      "company": "General",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 32,
+      "text": "Describe your time management strategies.",
+      "website": "",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 33,
+      "text": "What is your past absenteeism record like?",
+      "website": "",
+      "company": "General",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 34,
+      "text": "Can you be counted on to be reliable and trustworthy?",
+      "website": "",
+      "company": "General",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 35,
+      "text": "What are the three most important factors you seek in a job?",
+      "website": "",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 36,
+      "text": "What was the most difficult decision you've had to make in your career?",
+      "website": "",
+      "company": "General",
+      "level": "Hard",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 37,
+      "text": "If you won a large sum of money, would you continue working?",
+      "website": "",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 38,
+      "text": "Describe a situation where you demonstrated creativity.",
+      "website": "https://www.indiabix.com/hr-interview/give-me-an-example-of-your-creativity/",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 39,
+      "text": "What brings you joy in life?",
+      "website": "",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 40,
+      "text": "How do you perform under pressure? Can you handle stressful situations effectively?",
+      "website": "https://www.indiabix.com/hr-interview/can-you-work-under-pressure/",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 41,
+      "text": "Are you willing to relocate or travel for work, if necessary?",
+      "website": "https://www.indiabix.com/hr-interview/are-you-willing-to-relocate-or-travel/",
+      "company": "General",
+      "level": "Easy 1",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 42,
+      "text": "What research have you done on our company?",
+      "website": "",
+      "company": "General",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 43,
+      "text": "How long do you see yourself staying with our company if hired?",
+      "website": "https://www.indiabix.com/hr-interview/how-long-would-you-expect-to-work-for-us-if-hired/",
+      "company": "General",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 44,
+      "text": "Are you currently applying for other positions or have any outstanding job offers?",
+      "website": "",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 45,
+      "text": "Why are you interested in working for our company specifically?",
+      "website": "",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 46,
+      "text": "Do you know anyone who currently works at our company?",
+      "website": "",
+      "company": "General",
+      "level": "Easy 1",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 47,
+      "text": "Why do you believe you're the ideal candidate for this position?",
+      "website": "https://www.indiabix.com/hr-interview/why-should-i-hire-you/1-3#:~:text=You%20can%20hire%20me%20because,my%20skills%20to%20the%20best.",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 48,
+      "text": "What are your salary expectations?",
+      "website": "https://www.indiabix.com/hr-interview/how-much-salary-do-you-expect/20-4#:~:text=My%20salary%20expectations%20are%20in,my%20skills%20and%20company%20norms.&text=Sir%2C%20as%20a%20fresher%20I,I%20could%20demand%20a%20salary.",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 49,
+      "text": "How do you handle constructive feedback and criticism?",
+      "website": "https://www.indiabix.com/hr-interview/tell-me-about-a-situation-when-your-work-was-criticized/",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 50,
+      "text": "Why are you looking to leave your current position?",
+      "website": "https://www.indiabix.com/hr-interview/why-did-you-resign-from-your-previous-job/",
+      "company": "General",
+      "level": "Hard",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 51,
+      "text": "Do you have any questions for me?",
+      "website": "https://www.indiabix.com/hr-interview/do-you-have-any-questions-for-me/",
+      "company": "General",
+      "level": "Easy 1",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 52,
+      "text": "If I were to contact your current or previous supervisor, what would they say about you? Are there any areas they'd suggest for improvement?",
+      "website": "",
+      "company": "General",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 53,
+      "text": "How would you describe your ideal job?",
+      "website": "",
+      "company": "Google",
+      "level": "Hard",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 54,
+      "text": "Why did you choose this career?",
+      "website": "",
+      "company": "Google",
+      "level": "Hard",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 55,
+      "text": "When did you decide on this career?",
+      "website": "",
+      "company": "Google",
+      "level": "Medium",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 56,
+      "text": "What goals do you have in your career?",
+      "website": "https://www.indiabix.com/hr-interview/what-are-your-goals/",
+      "company": "Google",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 57,
+      "text": "What do you think it takes to be successful in this career?",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 58,
+      "text": "What accomplishments have given you the most satisfaction in your life?",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 59,
+      "text": "If you had to live your life over again, what would you change?",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 60,
+      "text": "Tell me about some of your recent goals and what you did to achieve them.",
+      "website": "",
+      "company": "Google",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 61,
+      "text": "What are your short-term goals?",
+      "website": "",
+      "company": "Google",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 62,
+      "text": "What is your long-range objective?",
+      "website": "",
+      "company": "Google",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 63,
+      "text": "What do you see yourself doing five years from now?",
+      "website": "",
+      "company": "Google",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 64,
+      "text": "Where do you want to be ten years from now?",
+      "website": "",
+      "company": "Google",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 65,
+      "text": "Do you have any plans for further education?",
+      "website": "",
+      "company": "Google",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 66,
+      "text": "How much training do you think you'll need to become a productive employee?",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 67,
+      "text": "If I were to ask one of your professors to describe you, what would he or she say?",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 68,
+      "text": "Why did you choose to attend your college?",
+      "website": "",
+      "company": "Google",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 69,
+      "text": "What changes would you make at your college?",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 2",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 70,
+      "text": "How has your education prepared you for your career?",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 71,
+      "text": "What were your favorite classes? Why?",
+      "website": "",
+      "company": "Google",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 72,
+      "text": "Tell me about a time when you worked effectively under pressure.",
+      "website": "",
+      "company": "Google",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 73,
+      "text": "Tell me about a time when you handled a difficult situation with a co-worker.",
+      "website": "",
+      "company": "Google",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 74,
+      "text": "Do you have any location preferences?",
+      "website": "",
+      "company": "Google",
+      "level": "Easy 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 75,
+      "text": "How familiar are you with the community that we are located in?",
+      "website": "",
+      "company": "Google",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 76,
+      "text": "Will you relocate in the future?",
+      "website": "",
+      "company": "Google",
+      "level": "Easy 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 77,
+      "text": "Are you willing to travel? How much?",
+      "website": "",
+      "company": "Google",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 78,
+      "text": "Is money important to you?",
+      "website": "",
+      "company": "Google",
+      "level": "Medium 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 79,
+      "text": "What qualities do you feel a successful manager should have?",
+      "website": "",
+      "company": "Google",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 80,
+      "text": "Do you handle conflict well?",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 81,
+      "text": "Tell me about a time when you were tolerant of an opinion that was different from yours.",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 82,
+      "text": "Tell me about a time when you were disappointed with your behavior.",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 83,
+      "text": "What is your favourite pass time? What do you do in your spare time?",
+      "website": "",
+      "company": "Google",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 84,
+      "text": "Do you have any backlogs?",
+      "website": "",
+      "company": "Google",
+      "level": "Easy 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 85,
+      "text": "How would you rate us as interviewers on a scale of 1-10?",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 86,
+      "text": "Tell me about a time when you delegated a project effectively.",
+      "website": "",
+      "company": "Google",
+      "level": "Medium 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 87,
+      "text": "Tell me about a time when you set your sights too high (or too low).",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 88,
+      "text": "What Google product do you use the most? How can you fix it?",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 89,
+      "text": "Who are our top competitors? Does we stand out from the rest?",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 90,
+      "text": "How do you go about ensuring that your co-workers are doing what they need to do?",
+      "website": "",
+      "company": "Google",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 91,
+      "text": "What is your knowledge of our company's history? ",
+      "website": "https://www.indiabix.com/hr-interview/tell-me-something-about-our-company/",
+      "company": "Google",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 92,
+      "text": "In your opinion, should people have to use their legal names when setting up a e-mail account?",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 93,
+      "text": "What changes do you think digital marketing will undergo in the next five years?",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 94,
+      "text": "What do you think of our company charging for their productivity apps? Do you agree or disagree?",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 95,
+      "text": "Share a detail about yourself that you haven't put on your resume.",
+      "website": "",
+      "company": "Google",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 96,
+      "text": "Let me know three non-Google sites that you like to visit. What do you like about them?  ",
+      "website": "",
+      "company": "Google",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 97,
+      "text": "Describe a time when you were faced with adversity. How did you overcome it?",
+      "website": "",
+      "company": "Google",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 98,
+      "text": "What is our comapany's largest concern right now?",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 99,
+      "text": "Tell me about an area where you believe our company is underinvested.",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 100,
+      "text": "Tell me about an area where you think our company is overinvested.",
+      "website": "",
+      "company": "Google",
+      "level": "Hard 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 101,
+      "text": "Share a time when a project had expanded beyond what was originally anticipated. ",
+      "website": "",
+      "company": "Google",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 102,
+      "text": "what do you enjoy doing outside of work? ",
+      "website": "",
+      "company": "Google",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 103,
+      "text": "Between learning and earning, which one do you enjoy more?",
+      "website": "",
+      "company": "Google",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 104,
+      "text": "Why do you want to work for our company?",
+      "website": "https://www.indiabix.com/hr-interview/why-do-you-want-to-work-at-our-company/",
+      "company": "Amazon",
+      "level": "Medium 1",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 105,
+      "text": "Which leadership principle do you connect with most?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 106,
+      "text": "What metrics do you consider important for growth?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 107,
+      "text": "Can you describe your most difficult customer experience? How did you handle the customer’s needs?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 108,
+      "text": "Tell me about a time when you faced criticism and how you responded.",
+      "website": "",
+      "company": "Amazon",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 109,
+      "text": "What has been the most difficult professional situation in your life? How did you handle it?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 110,
+      "text": "Have you ever taken a decision you made based on your instincts?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 111,
+      "text": "How do you go about persuading people?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 112,
+      "text": "Have you ever taken an unfamiliar project outside your expertise or job description? How did you handle it?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Medium 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 113,
+      "text": "Can you tell me about a time you had to decide without all the data or options in front of you?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 114,
+      "text": "What would you do when you saw your close work colleague stealing?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 115,
+      "text": "How would you handle the situation if one of your colleagues wasn’t contributing their share to your work?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 116,
+      "text": "Can you explain a time when you created a poor customer experience and how you fixed it?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 117,
+      "text": "Explain a time that you dealt with a hostile customer",
+      "website": "",
+      "company": "Amazon",
+      "level": "Hard 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 118,
+      "text": " How will you handle a situation if you’re given conflicting directions from two managers?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Hard 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 119,
+      "text": "What is the worst mistake you have ever made professionally? How did you fix it?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Hard 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 120,
+      "text": "Explain a time when you disagreed with the feedback you received. How did you handle it?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Hard 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 121,
+      "text": "What is the most challenging thing about working with you?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Hard 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 122,
+      "text": "Tell me about the qualities that will help you succeed with our company.",
+      "website": "",
+      "company": "Amazon",
+      "level": "Medium 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 123,
+      "text": "Have you ever missed a deadline? How did you handle it?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 124,
+      "text": "Can you give an example of a time you took the lead on a project?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 125,
+      "text": " Have you ever shown initiative? Tell me about that time.",
+      "website": "",
+      "company": "Amazon",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 126,
+      "text": "Have you ever used innovation to solve a problem?",
+      "website": "",
+      "company": "Amazon",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 127,
+      "text": "Why do you want to work for us?",
+      "website": "",
+      "company": "Microsoft",
+      "level": "Medium 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 128,
+      "text": "What do you think are the 3 qualities to work at our company?",
+      "website": "",
+      "company": "Microsoft",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 129,
+      "text": "What was your job in your final year project?",
+      "website": "",
+      "company": "Microsoft",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 130,
+      "text": "What do you think is your biggest achievement? Why?",
+      "website": "",
+      "company": "Microsoft",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 131,
+      "text": "Whom do you idolize in the business industry?",
+      "website": "",
+      "company": "Microsoft",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 132,
+      "text": "What do you think makes you different to work in our company?",
+      "website": "",
+      "company": "Microsoft",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 133,
+      "text": "Tell any 4 of your favourite products from Microsoft and why.",
+      "website": "",
+      "company": "Microsoft",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 134,
+      "text": "What do you want to be in the future?",
+      "website": "",
+      "company": "Microsoft",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 135,
+      "text": "Tell any 1 social problem that bothers you the most",
+      "website": "",
+      "company": "Microsoft",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 136,
+      "text": "What are the disadvantages that Gmail has? Can you suggest some means to overcome it?",
+      "website": "",
+      "company": "Microsoft",
+      "level": "Hard 3",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 137,
+      "text": "How would you rate your academic performance in your graduation? Justify?",
+      "website": "",
+      "company": "Microsoft",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 138,
+      "text": "Why do you want to work and not pursue a higher education?",
+      "website": "",
+      "company": "Microsoft",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 139,
+      "text": "What would you like to improve in yourself 3 years from now (other than knowledge)?",
+      "website": "",
+      "company": "Microsoft",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 140,
+      "text": "Why our company? What competitor of the company would you like to work for? Would you prefer our company?",
+      "website": "",
+      "company": "Microsoft",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 141,
+      "text": "Why should we prefer you to other candidates?",
+      "website": "",
+      "company": "Microsoft",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 142,
+      "text": "What have you done to improve your academic position in the last 2 years?",
+      "website": "",
+      "company": "Microsoft",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 143,
+      "text": "What is your favorite Apple product and why?",
+      "website": "",
+      "company": "Apple",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 144,
+      "text": "What is your proudest accomplishment?",
+      "website": "",
+      "company": "Apple",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 145,
+      "text": "Tell me about your greatest failure and what you learned from it.",
+      "website": "",
+      "company": "Apple",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 146,
+      "text": "Why should we hire you?",
+      "website": "https://www.indiabix.com/hr-interview/why-should-i-hire-you/",
+      "company": "Apple",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 147,
+      "text": "What does your current availability look like?",
+      "website": "",
+      "company": "Apple",
+      "level": "Easy 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 148,
+      "text": "How would you recover from a situation of total failure?",
+      "website": "",
+      "company": "Apple",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 149,
+      "text": "How would you fulfill an unexpected or unrealistic expectation of a customer?",
+      "website": "",
+      "company": "Apple",
+      "level": "Hard 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 150,
+      "text": "Tell us about when you were given some task, and you had no clue how to do it; how did you learn it quickly?",
+      "website": "",
+      "company": "Apple",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 151,
+      "text": "When it comes to app listings on the App Store, Apple has a reputation for being picky. Is this a competitive advantage or disadvantage for you, and why?",
+      "website": "",
+      "company": "Apple",
+      "level": "Hard 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 152,
+      "text": "What is more important - creating a great customer experience or customer’s problem? Which one would you prioritize?",
+      "website": "",
+      "company": "Apple",
+      "level": "Hard 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 153,
+      "text": "Are you a positive person? What brings you down?",
+      "website": "",
+      "company": "Apple",
+      "level": "Easy 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 154,
+      "text": " Are you a team player?",
+      "website": "",
+      "company": "Infosys",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 155,
+      "text": "What salary are you expecting?",
+      "website": "https://www.indiabix.com/hr-interview/how-much-salary-do-you-expect/",
+      "company": "Infosys",
+      "level": "Medium 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 156,
+      "text": "Describe your working style?",
+      "website": "",
+      "company": "Infosys",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 157,
+      "text": " How would you be an asset to our organization?",
+      "website": "https://www.indiabix.com/hr-interview/explain-how-would-be-an-asset-to-this-organization/",
+      "company": "Infosys",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 158,
+      "text": "Can you work under pressure?",
+      "website": "",
+      "company": "Infosys",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 159,
+      "text": "Are you willing to relocate or travel?",
+      "website": "",
+      "company": "Infosys",
+      "level": "Easy 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 160,
+      "text": " How can you make sure that all the tasks are completed effectively?",
+      "website": "",
+      "company": "Infosys",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 161,
+      "text": "Can you tell me what you think of your dream company?",
+      "website": "",
+      "company": "Infosys",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 162,
+      "text": "According to you what is motivation?",
+      "website": "https://www.indiabix.com/hr-interview/what-motivates-you-to-do-good-job/",
+      "company": "Infosys",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 163,
+      "text": "What is the ideal working environment according to you?",
+      "website": "",
+      "company": "Infosys",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 164,
+      "text": "In a situation when you are working under a bad boss what will you do?",
+      "website": "",
+      "company": "Infosys",
+      "level": "Hard 2",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 165,
+      "text": "In a condition when the priorities of the projects are changed how will you manage those?",
+      "website": "",
+      "company": "Infosys",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": true,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 166,
+      "text": "Describe a task that really tested your analytical abilities.",
+      "website": "",
+      "company": "JP Morgan",
+      "level": "Hard 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 167,
+      "text": "Tell me about a time when you had a positive impact on a project. How did you measure your success?",
+      "website": "",
+      "company": "JP Morgan",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 168,
+      "text": "Tell me about a time when you were confused about details of a request. What steps did you take to clarify things?",
+      "website": "",
+      "company": "JP Morgan",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 169,
+      "text": "How do you manage your schedule when you have multiple projects competing for your time?",
+      "website": "",
+      "company": "JP Morgan",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 170,
+      "text": "Describe a time you had to work with a difficult person in your team.",
+      "website": "",
+      "company": "JP Morgan",
+      "level": "Hard 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 171,
+      "text": "Tell me about a time a project didn't go according to plan, and what you did to get it back on track.",
+      "website": "",
+      "company": "JP Morgan",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 172,
+      "text": "Describe a time when you received constructive feedback, and how you responded.",
+      "website": "",
+      "company": "JP Morgan",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 173,
+      "text": "How would you describe your management style?",
+      "website": "",
+      "company": "JP Morgan",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 174,
+      "text": "Tell me about a time you had to deliver feedback to a member of your team?",
+      "website": "",
+      "company": "JP Morgan",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 175,
+      "text": "How do you build relationships with team members outside of your immediate department?",
+      "website": "",
+      "company": "JP Morgan",
+      "level": "Hard 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 176,
+      "text": "What classes, books, or other guidance have you used in your career to develop as a leader?",
+      "website": "",
+      "company": "JP Morgan",
+      "level": "Hard 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 177,
+      "text": "Tell me about a time you had an unpopular view on a team and you had to influence others to get their support.",
+      "website": "",
+      "company": "JP Morgan",
+      "level": "Hard 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 178,
+      "text": "How would you describe our business?",
+      "website": "",
+      "company": "JP Morgan",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 179,
+      "text": "Can you describe any of the company's other business principles?",
+      "website": "",
+      "company": "JP Morgan",
+      "level": "Medium 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 180,
+      "text": "If hired, how would you support our company's cultural value of diversity and inclusion?",
+      "website": "",
+      "company": "JP Morgan",
+      "level": "Hard 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 181,
+      "text": "Describe the behaviors you believe we expect of employees to meet our code of conduct and ethics.",
+      "website": "",
+      "company": "JP Morgan",
+      "level": "Hard 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 182,
+      "text": "What skills do you think are most important to work at Uber?",
+      "website": "",
+      "company": "Uber",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 183,
+      "text": "How do you handle a project life cycle?",
+      "website": "",
+      "company": "Uber",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 184,
+      "text": "Tell us three things you did not like about your last job.",
+      "website": "",
+      "company": "Uber",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 185,
+      "text": "Walk us through a situation where you had to make a decision with limited information.",
+      "website": "",
+      "company": "Uber",
+      "level": "Medium 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 186,
+      "text": "Tell me about a time when you felt overwhelmed with office work.",
+      "website": "",
+      "company": "Uber",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 187,
+      "text": "What will you do if you do not agree with a company policy or procedure and need to comply with it anyway?",
+      "website": "",
+      "company": "Uber",
+      "level": "Hard 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 188,
+      "text": "Tell me about a time when you had to motivate a coworker.",
+      "website": "",
+      "company": "Uber",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 189,
+      "text": "Walk us through a situation where you used your communication skills to overcome an issue.",
+      "website": "",
+      "company": "Uber",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 190,
+      "text": "What drew you to our company in the first place?",
+      "website": "",
+      "company": "Uber",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 191,
+      "text": "What do you believe your pay will be?",
+      "website": "",
+      "company": "Uber",
+      "level": "Medium 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 192,
+      "text": "What would you do if a coworker constantly arrived late to a weekly meeting?",
+      "website": "",
+      "company": "Meta",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 193,
+      "text": "Friend requests are down 10%, what would you do?",
+      "website": "",
+      "company": "Meta",
+      "level": "Hard 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 194,
+      "text": "Describe a time when your project failed",
+      "website": "",
+      "company": "Meta",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 195,
+      "text": "How do you earn the trust of your team members?",
+      "website": "",
+      "company": "Meta",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 196,
+      "text": "Are you a goal-oriented person?",
+      "website": "",
+      "company": "Adobe",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 197,
+      "text": "Tell me about some of your recent goals and what you did to achieve them.",
+      "website": "",
+      "company": "Adobe",
+      "level": "Easy 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 198,
+      "text": "Do you handle conflict well?",
+      "website": "",
+      "company": "Adobe",
+      "level": "Medium 2",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 199,
+      "text": "Tell us something about yourself that is not on your resume.",
+      "website": "",
+      "company": "Adobe",
+      "level": "Easy 3",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 200,
+      "text": "How familiar are you with the community that we're located in?",
+      "website": "",
+      "company": "Adobe",
+      "level": "Medium 1",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 201,
+      "text": "What changes would you make if you came on board",
+      "website": "https://www.indiabix.com/hr-interview/what-changes-would-you-make-if-you-came-on-board/",
+      "company": "General",
+      "level": "Unknown",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    },
+    {
+      "id": 202,
+      "text": "What is the difference between hard work and smart work",
+      "website": "https://www.indiabix.com/hr-interview/what-is-the-difference-between-hard-work-and-smart-work/",
+      "company": "General",
+      "level": "Unknown",
+      "category": "General",
+      "isResponseGenerated": false,
+      "numberOfResponsesScraped": 0
+    }
+  ]
+}
