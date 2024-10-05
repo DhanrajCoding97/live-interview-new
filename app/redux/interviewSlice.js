@@ -1,123 +1,123 @@
-import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
+// import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 
-export const initializeInterview = createAsyncThunk(
-  "interview/initialize",
-  async ({ interviewId, jobId, userId }, { rejectWithValue }) => {
-    try {
-      const response = await fetch(
-        "https://training-pipeline-430916.el.r.appspot.com/api/v1/init",
-        {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({ interviewId, jobId, userId }),
-        }
-      );
-      const data = await response.json();
-      return data;
-    } catch (error) {
-      return rejectWithValue(error.message);
-    }
-  }
-);
+// export const initializeInterview = createAsyncThunk(
+//   "interview/initialize",
+//   async ({ interviewId, jobId, userId }, { rejectWithValue }) => {
+//     try {
+//       const response = await fetch(
+//         "https://training-pipeline-430916.el.r.appspot.com/api/v1/init",
+//         {
+//           method: "POST",
+//           headers: {
+//             "Content-Type": "application/json",
+//           },
+//           body: JSON.stringify({ interviewId, jobId, userId }),
+//         }
+//       );
+//       const data = await response.json();
+//       return data;
+//     } catch (error) {
+//       return rejectWithValue(error.message);
+//     }
+//   }
+// );
 
-export const fetchNextQuestion = createAsyncThunk(
-  "interview/fetchNextQuestion",
-  async ({ interviewId, jobId, userId }, { rejectWithValue }) => {
-    try {
-      const response = await fetch(
-        "https://training-pipeline-430916.el.r.appspot.com/api/v1/nextquestion",
-        {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({ interviewId, jobId, userId }),
-        }
-      );
-      const data = await response.json();
-      return data;
-    } catch (error) {
-      return rejectWithValue(error.message);
-    }
-  }
-);
+// export const fetchNextQuestion = createAsyncThunk(
+//   "interview/fetchNextQuestion",
+//   async ({ interviewId, jobId, userId }, { rejectWithValue }) => {
+//     try {
+//       const response = await fetch(
+//         "https://training-pipeline-430916.el.r.appspot.com/api/v1/nextquestion",
+//         {
+//           method: "POST",
+//           headers: {
+//             "Content-Type": "application/json",
+//           },
+//           body: JSON.stringify({ interviewId, jobId, userId }),
+//         }
+//       );
+//       const data = await response.json();
+//       return data;
+//     } catch (error) {
+//       return rejectWithValue(error.message);
+//     }
+//   }
+// );
 
-export const submitAnswer = createAsyncThunk(
-  "interview/submitAnswer",
-  async ({ formData }, { rejectWithValue }) => {
-    try {
-      const response = await fetch(
-        "https://training-pipeline-430916.el.r.appspot.com/api/v1/answer",
-        {
-          method: "POST",
-          body: formData,
-        }
-      );
-      if (response.ok) {
-        return await response.json();
-      } else {
-        throw new Error("Failed to submit answer");
-      }
-    } catch (error) {
-      return rejectWithValue(error.message);
-    }
-  }
-);
+// export const submitAnswer = createAsyncThunk(
+//   "interview/submitAnswer",
+//   async ({ formData }, { rejectWithValue }) => {
+//     try {
+//       const response = await fetch(
+//         "https://training-pipeline-430916.el.r.appspot.com/api/v1/answer",
+//         {
+//           method: "POST",
+//           body: formData,
+//         }
+//       );
+//       if (response.ok) {
+//         return await response.json();
+//       } else {
+//         throw new Error("Failed to submit answer");
+//       }
+//     } catch (error) {
+//       return rejectWithValue(error.message);
+//     }
+//   }
+// );
 
-const interviewSlice = createSlice({
-  name: "interview",
-  initialState: {
-    interviewId: "interview2",
-    jobId: "job2",
-    userId: "user2",
-    totalQuestions: 0,
-    currentQuestionNumber: 0,
-    currentQuestion: null,
-    isLoading: false,
-    error: null,
-  },
-  reducers: {},
-  extraReducers: (builder) => {
-    builder
-      .addCase(initializeInterview.pending, (state) => {
-        state.isLoading = true;
-      })
-      .addCase(initializeInterview.fulfilled, (state, action) => {
-        state.isLoading = false;
-        state.totalQuestions = action.payload.totalQuestion;
-      })
-      .addCase(initializeInterview.rejected, (state, action) => {
-        state.isLoading = false;
-        state.error = action.payload;
-      })
-      .addCase(fetchNextQuestion.pending, (state) => {
-        state.isLoading = true;
-      })
-      .addCase(fetchNextQuestion.fulfilled, (state, action) => {
-        state.isLoading = false;
-        state.currentQuestion = action.payload;
-        state.currentQuestionNumber += 1;
-      })
-      .addCase(fetchNextQuestion.rejected, (state, action) => {
-        state.isLoading = false;
-        state.error = action.payload;
-      })
-      .addCase(submitAnswer.pending, (state) => {
-        state.isLoading = true;
-      })
-      .addCase(submitAnswer.fulfilled, (state) => {
-        state.isLoading = false;
-      })
-      .addCase(submitAnswer.rejected, (state, action) => {
-        state.isLoading = false;
-        state.error = action.payload;
-      });
-  },
-});
+// const interviewSlice = createSlice({
+//   name: "interview",
+//   initialState: {
+//     interviewId: "interview2",
+//     jobId: "job2",
+//     userId: "user2",
+//     totalQuestions: 0,
+//     currentQuestionNumber: 0,
+//     currentQuestion: null,
+//     isLoading: false,
+//     error: null,
+//   },
+//   reducers: {},
+//   extraReducers: (builder) => {
+//     builder
+//       .addCase(initializeInterview.pending, (state) => {
+//         state.isLoading = true;
+//       })
+//       .addCase(initializeInterview.fulfilled, (state, action) => {
+//         state.isLoading = false;
+//         state.totalQuestions = action.payload.totalQuestion;
+//       })
+//       .addCase(initializeInterview.rejected, (state, action) => {
+//         state.isLoading = false;
+//         state.error = action.payload;
+//       })
+//       .addCase(fetchNextQuestion.pending, (state) => {
+//         state.isLoading = true;
+//       })
+//       .addCase(fetchNextQuestion.fulfilled, (state, action) => {
+//         state.isLoading = false;
+//         state.currentQuestion = action.payload;
+//         state.currentQuestionNumber += 1;
+//       })
+//       .addCase(fetchNextQuestion.rejected, (state, action) => {
+//         state.isLoading = false;
+//         state.error = action.payload;
+//       })
+//       .addCase(submitAnswer.pending, (state) => {
+//         state.isLoading = true;
+//       })
+//       .addCase(submitAnswer.fulfilled, (state) => {
+//         state.isLoading = false;
+//       })
+//       .addCase(submitAnswer.rejected, (state, action) => {
+//         state.isLoading = false;
+//         state.error = action.payload;
+//       });
+//   },
+// });
 
-export default interviewSlice.reducer;
+// export default interviewSlice.reducer;
 
 //-------------------------------------------------------------------------
 
@@ -282,3 +282,100 @@ export default interviewSlice.reducer;
 // });
 
 // export default interviewSlice.reducer;
+
+
+//dhanrajs code
+// interviewSlice.js
+import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
+export const submitAnswer = createAsyncThunk(
+  "interview/submitAnswer",
+  async ({ formData }, { rejectWithValue }) => {
+    try {
+      const response = await fetch(
+        "https://training-pipeline-430916.el.r.appspot.com/api/questions/submitAnswer",
+        {
+          method: "POST",
+          body: formData,
+        }
+      );
+      if (response.ok) {
+        return await response.json();
+      } else {
+        throw new Error("Failed to submit answer");
+      }
+    } catch (error) {
+      return rejectWithValue(error.message);
+    }
+  }
+);
+
+
+export const fetchNextQuestion = createAsyncThunk(
+  'interview/fetchNextQuestion',
+  async () => {
+    const response = await fetch('https://training-pipeline-430916.el.r.appspot.com/api/questions/nextQuestion/');
+    if (!response.ok) {
+      if (response.status === 404) {
+        return { completed: true };
+      }
+      throw new Error('Failed to fetch next question');
+    }
+    return await response.json();
+  }
+);
+
+const interviewSlice = createSlice({
+  name: 'interview',
+  initialState: {
+    currentQuestion: null,
+    isLoading: false,
+    error: null,
+    completed: false
+  },
+  reducers: {
+    setCurrentQuestion: (state, action) => {
+      state.currentQuestion = action.payload;
+    },
+    setError: (state, action) => {
+      state.error = action.payload;
+    }
+  },
+  extraReducers: (builder) => {
+    builder
+      .addCase(submitAnswer.pending, (state) => {
+        state.isLoading = true;
+      })
+      .addCase(submitAnswer.fulfilled, (state) => {
+        state.isLoading = false;
+      })
+      .addCase(submitAnswer.rejected, (state, action) => {
+        state.isLoading = false;
+        state.error = action.error.message;
+      })
+      .addCase(fetchNextQuestion.pending, (state) => {
+        state.isLoading = true;
+      })
+      .addCase(fetchNextQuestion.fulfilled, (state, action) => {
+        state.isLoading = false;
+        if (action.payload.completed) {
+          state.completed = true;
+          state.currentQuestion = null;
+        } else {
+          state.currentQuestion = {
+            text: action.payload.Question,
+            audioFile: action.payload.audioFilePath,
+            questionId: action.payload.index,
+            parameterCategories: action.payload["Paramter Categories"],
+            difficultyLevel: action.payload.Difficulty_Level
+          };
+        }
+      })
+      .addCase(fetchNextQuestion.rejected, (state, action) => {
+        state.isLoading = false;
+        state.error = action.error.message;
+      });
+  }
+});
+
+export const { setCurrentQuestion, setError } = interviewSlice.actions;
+export default interviewSlice.reducer;
